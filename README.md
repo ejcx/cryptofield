@@ -8,11 +8,11 @@ Remember to include cryptofield.js in your webpage.
 ```
 Next, create a cryptofield div.
 ```
-<div id="yourcryptofield" class='cryptofield'></script>
+<div id="yourcryptofield" class='cryptofield'></div>
 ```
 You can manually set the size by adding a size directive to the classname. This will create an image that is 64x64 pixels.
 ```
-<div id="yourcryptofield" class='cryptofield size64'></script>
+<div id="yourcryptofield" class='cryptofield size64'></div>
 ```
 
 ##Filling in the field.
